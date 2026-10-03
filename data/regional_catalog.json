@@ -1,0 +1,226 @@
+[
+  {
+    "id": "tg-food-001",
+    "title": "Hyderabadi Dum Biryani and Irani Chai Experience",
+    "region": "telangana",
+    "category": "food",
+    "description": "Authentic Hyderabadi kacchi gosht dum biryani slow-cooked with basmati rice, aromatic spices, and saffron, paired with spiced mirchi ka salan and historic Irani chai with Osmania biscuits.",
+    "tags": ["biryani", "dum biryani", "irani chai", "hyderabad", "halal", "spicy"],
+    "location": "Old City, Hyderabad, Telangana",
+    "highlights": ["Aromatic slow-cooked basmati rice", "Traditional saffron and pot sealing", "Served with Mirchi ka Salan"]
+  },
+  {
+    "id": "tg-food-002",
+    "title": "Traditional Telangana Sarva Pindi and Sakinalu",
+    "region": "telangana",
+    "category": "food",
+    "description": "Crispy savory pancake native to rural Telangana crafted from rice flour, chana dal, sesame seeds, peanuts, curry leaves, and green chilies, traditionally cooked in shallow copper pans.",
+    "tags": ["sarva pindi", "sakinalu", "telangana breakfast", "snacks", "rural cuisine", "vegetarian"],
+    "location": "Warangal & Karimnagar, Telangana",
+    "highlights": ["Zero preservative traditional recipe", "High sesame and peanut crunch", "Served with tomato chutney"]
+  },
+  {
+    "id": "tg-fashion-001",
+    "title": "Pochampally Ikat Handloom Silk and Cotton Sarees",
+    "region": "telangana",
+    "category": "fashion",
+    "description": "GI-tagged handloom textile art featuring intricate geometric tie-and-dye Ikat patterns woven by master weavers in Bhoodan Pochampally using heritage silk and fine cotton threads.",
+    "tags": ["pochampally", "ikat", "handloom", "silk saree", "traditional wear", "textile"],
+    "location": "Bhoodan Pochampally, Yadadri Bhuvanagiri, Telangana",
+    "highlights": ["Geographical Indication (GI) tagged", "Intricate double-ikat geometric motifs", "Eco-friendly vegetable and direct dyes"]
+  },
+  {
+    "id": "tg-travel-001",
+    "title": "UNESCO World Heritage Ramappa Temple & Kakatiya Circuit",
+    "region": "telangana",
+    "category": "travel",
+    "description": "Marvel at the 13th-century Kakatiya architecture featuring lightweight floating brick roofs, intricate black basalt stone sculptures of dancers, and the historic Thousand Pillar Temple.",
+    "tags": ["ramappa temple", "unesco heritage", "kakatiya", "warangal", "architecture", "history"],
+    "location": "Palampet, Mulugu District & Hanamkonda, Telangana",
+    "highlights": ["UNESCO World Heritage listed", "Floating bricks engineered to withstand earthquakes", "Intricate carvings depicting Kakatiya dance forms"]
+  },
+  {
+    "id": "tg-diaspora-001",
+    "title": "Global Telangana Cultural Association & Bathukamma Global Network",
+    "region": "telangana",
+    "category": "diaspora",
+    "description": "Worldwide community forum and cultural society connecting Telangana diaspora across North America, Europe, the UK, and the Gulf, organizing Bathukamma floral festivals and expat networking hubs.",
+    "tags": ["diaspora", "bathukamma", "telangana association", "community", "telugu expat", "networking"],
+    "location": "Global / Hyderabad Liaison Office, Telangana",
+    "highlights": ["Organizes annual global Bathukamma celebrations", "Expat legal and cultural transition aid", "Active student and professional mentorship chapters"]
+  },
+
+  {
+    "id": "tn-food-001",
+    "title": "Chettinad Pepper Chicken, Meen Varuval & Filter Coffee",
+    "region": "tamil_nadu",
+    "category": "food",
+    "description": "Bold and fiery aromatic Chettinad culinary feasts freshly ground with kalpasi (black stone flower), star anise, peppercorns, and coconut, concluded with authentic Kumbakonam degree filter coffee.",
+    "tags": ["chettinad", "pepper chicken", "filter coffee", "spicy", "tamil nadu cuisine", "non-veg"],
+    "location": "Karaikudi, Chettinad & Chennai, Tamil Nadu",
+    "highlights": ["Freshly dry-roasted whole spices", "Stone-ground masala paste", "Signature frothy brass tumbler filter coffee"]
+  },
+  {
+    "id": "tn-food-002",
+    "title": "Madurai Jigarthanda & Fluffy Mallipoo Idli",
+    "region": "tamil_nadu",
+    "category": "food",
+    "description": "World-famous royal cooling dessert beverage made with almond gum (badam pisin), nannari syrup, and thickened milk basundi, paired with cloud-soft jasmine idlis and coconut sambar.",
+    "tags": ["jigarthanda", "idli", "sambar", "madurai", "dessert", "vegetarian"],
+    "location": "Madurai & Tirunelveli, Tamil Nadu",
+    "highlights": ["Iconic natural body coolant beverage", "Steamed fermented rice cakes with 4 chutney varieties"]
+  },
+  {
+    "id": "tn-fashion-001",
+    "title": "Kanchipuram Heritage Pure Mulberry Silk & Zari Sarees",
+    "region": "tamil_nadu",
+    "category": "fashion",
+    "description": "Legendary South Indian handwoven bridal silk sarees made from pure mulberry silk threads and silver-gold zari borders, renowned for temple border motifs and contrasting pallus.",
+    "tags": ["kanchipuram", "silk saree", "zari", "wedding wear", "handloom", "traditional"],
+    "location": "Kanchipuram, Tamil Nadu",
+    "highlights": ["Interlocking korvai weaving technique", "Heavy real gold and silver dipped zari", "Geographical Indication (GI) tagged"]
+  },
+  {
+    "id": "tn-travel-001",
+    "title": "Madurai Meenakshi Temple & Mahabalipuram Shore Temples",
+    "region": "tamil_nadu",
+    "category": "travel",
+    "description": "Spectacular Dravidian gopurams of the historic Meenakshi Amman Temple alongside UNESCO 7th-century monolithic rock-cut cave shrines and Shore Temple on the Coromandel coastline.",
+    "tags": ["meenakshi temple", "mahabalipuram", "dravidian", "shore temple", "unesco", "heritage"],
+    "location": "Madurai & Mamallapuram, Tamil Nadu",
+    "highlights": ["14 towering multi-tiered sculpted gopurams", "Arjuna's Penance rock relief", "Active 2500-year living sacred culture"]
+  },
+  {
+    "id": "tn-diaspora-001",
+    "title": "World Tamil Sangam & Global Pongal Heritage Network",
+    "region": "tamil_nadu",
+    "category": "diaspora",
+    "description": "Global federation uniting Tamil communities worldwide across Singapore, Malaysia, North America, the UK, and Sri Lanka, preserving classic literature, Tamil schools, and harvest Pongal festivities.",
+    "tags": ["tamil sangam", "pongal", "diaspora", "expat", "tamil diaspora", "community"],
+    "location": "Global / Madurai Headquarters, Tamil Nadu",
+    "highlights": ["Coordinates annual World Tamil Conference", "Free Tamil digital learning portals", "Global young expat entrepreneur network"]
+  },
+
+  {
+    "id": "ka-food-001",
+    "title": "Davangere Benne Dosa, Bisi Bele Bath & Mysore Pak",
+    "region": "karnataka",
+    "category": "food",
+    "description": "Buttery, crisp, wood-fired Davangere benne dosas served with spicy potato palya, hot aromatic spiced lentil-rice Bisi Bele Bath, and mouth-melting pure ghee Mysore Pak confectionery.",
+    "tags": ["benne dosa", "bisi bele bath", "mysore pak", "ghee", "karnataka breakfast", "vegetarian"],
+    "location": "Davangere, Mysuru & Bengaluru, Karnataka",
+    "highlights": ["Fresh white churned butter glaze", "Rich tamarind-spice lentil broth", "Traditional melt-in-mouth gram flour sweet"]
+  },
+  {
+    "id": "ka-fashion-001",
+    "title": "Mysore Crepe Silk & Heritage Ilkal Handloom Weaves",
+    "region": "karnataka",
+    "category": "fashion",
+    "description": "Royal Mysore Silk woven from 100% natural silk and pure gold zari manufactured under royal patron lineages, alongside historic Ilkal sarees with distinctive red tope teni pallu borders.",
+    "tags": ["mysore silk", "ilkal saree", "handloom", "ksic", "zari", "traditional fashion"],
+    "location": "Mysuru & Ilkal, Bagalkot District, Karnataka",
+    "highlights": ["KSIC certified authentic 100% pure silk", "Unique Kasuti embroidery detailing", "Durable lightweight crepe finish"]
+  },
+  {
+    "id": "ka-travel-001",
+    "title": "UNESCO World Heritage Hampi Ruins & Grand Mysore Palace",
+    "region": "karnataka",
+    "category": "travel",
+    "description": "Surreal boulder-strewn 14th-century capital of the Vijayanagara Empire with stone chariot shrines, paired with the Indo-Saracenic illuminated Mysore Palace.",
+    "tags": ["hampi", "mysore palace", "vijayanagara", "unesco", "heritage", "boulders"],
+    "location": "Hampi, Vijayanagara & Mysuru, Karnataka",
+    "highlights": ["UNESCO World Heritage ancient kingdom", "Musical pillars of Vittala Temple", "Grand Dasara royal procession grounds"]
+  },
+  {
+    "id": "ka-diaspora-001",
+    "title": "Association of Kannada Kootas of America (AKKA) & Global Kannada Federation",
+    "region": "karnataka",
+    "category": "diaspora",
+    "description": "Leading global umbrella network uniting Kannadiga families and tech professionals worldwide, organizing the biennial World Kannada Conference and cultural student exchange programs.",
+    "tags": ["kannada koota", "akka", "diaspora", "kannadiga", "bengaluru expat", "community"],
+    "location": "Global / Bengaluru International Cell, Karnataka",
+    "highlights": ["Biennial World Kannada Convention with 5,000+ delegates", "Tech expat mentorship and emergency aid", "Rajyotsava cultural celebrations"]
+  },
+
+  {
+    "id": "pb-food-001",
+    "title": "Amritsari Stuffed Kulcha & Makki di Roti with Sarson da Saag",
+    "region": "punjab",
+    "category": "food",
+    "description": "Crisp flaky clay tandoor-baked potato and paneer kulchas smothered in white butter, served with tangy chole and winter brassica Sarson da Saag topped with homemade jaggery.",
+    "tags": ["amritsari kulcha", "sarson da saag", "makki di roti", "tandoori", "punjabi food", "chole"],
+    "location": "Amritsar & Jalandhar, Punjab",
+    "highlights": ["Layered ghee dough baked in tandoor", "Traditional hand-churned white butter", "Slow-simmered mustard greens with maize flatbread"]
+  },
+  {
+    "id": "pb-fashion-001",
+    "title": "Phulkari Silk Embroidered Dupattas & Patiala Salwar",
+    "region": "punjab",
+    "category": "fashion",
+    "description": "Vibrant folk floral embroidery worked with darn stitch on coarse khaddar or chiffon silk creating radiant geometric Phulkari shawls, accessorized with handcrafted leather Punjabi juttis.",
+    "tags": ["phulkari", "patiala salwar", "punjabi jutti", "handloom", "embroidery", "ethnic wear"],
+    "location": "Patiala & Ludhiana, Punjab",
+    "highlights": ["GI-tagged floral needlecraft", "Silk floss yarn embroidery on pure fabrics", "Classic pleated Patiala silhouette"]
+  },
+  {
+    "id": "pb-travel-001",
+    "title": "Sri Harmandir Sahib (Golden Temple) & Wagah Border Ceremony",
+    "region": "punjab",
+    "category": "travel",
+    "description": "The spiritually serene Golden Temple surrounded by the sacred Amrit Sarovar running the world's largest free community kitchen (Langar), alongside the dramatic evening Wagah Border Beating Retreat.",
+    "tags": ["golden temple", "harmandir sahib", "amritsar", "wagah border", "spiritual", "heritage"],
+    "location": "Amritsar, Punjab",
+    "highlights": ["Gold-plated sanctum housing Guru Granth Sahib", "24/7 free community langar serving 100,000 daily", "Historic Jallianwala Bagh Memorial nearby"]
+  },
+  {
+    "id": "pb-diaspora-001",
+    "title": "World Punjabi Organization & Global Vaisakhi Council",
+    "region": "punjab",
+    "category": "diaspora",
+    "description": "Prestigious international cultural society connecting Punjabi and Sikh diaspora across the United Kingdom, Canada, California, and Australia, coordinating Vaisakhi parades and business networks.",
+    "tags": ["punjabi diaspora", "vaisakhi", "sikh council", "nri", "canada punjabi", "community"],
+    "location": "Global / Chandigarh Liaison Centre, Punjab",
+    "highlights": ["Hosts international Punjabi cultural summits", "Youth athletic and Bhangra dance academy championships", "Extensive legal and NRI property assistance helplines"]
+  },
+
+  {
+    "id": "wb-food-001",
+    "title": "Kolkata Dum Biryani, Shorshe Ilish & Spongy Rosogolla",
+    "region": "bengal",
+    "category": "food",
+    "description": "Subtle and fragrant Awadhi-heritage Kolkata biryani with aromatic potato and boiled egg, paired with royal hilsa fish cooked in pungent mustard gravy (Shorshe Ilish) and warm melt-in-mouth chenna Rosogollas.",
+    "tags": ["kolkata biryani", "shorshe ilish", "rosogolla", "mishti doi", "bengali food", "hilsa"],
+    "location": "Kolkata & Digha, West Bengal",
+    "highlights": ["Signature slow-cooked spiced potato in biryani", "Tender Padma/Ganges Hilsa in yellow mustard gravy", "Original 1868 Nobin Chandra Das sponge sweet recipe"]
+  },
+  {
+    "id": "wb-fashion-001",
+    "title": "Dhakai Jamdani, Baluchari & Tussar Silk Sarees",
+    "region": "bengal",
+    "category": "fashion",
+    "description": "Exquisite fine cotton Jamdani handweaves featuring floating floral motifs, alongside historic Baluchari silk sarees depicting Mahabharata mythological scenes handwoven into the pallu.",
+    "tags": ["jamdani", "baluchari", "tussar silk", "handloom", "bengali saree", "traditional wear"],
+    "location": "Bishnupur & Shantipur, West Bengal",
+    "highlights": ["UNESCO Masterpiece of Oral and Intangible Heritage Jamdani weaving", "Mythological narrative motifs on pure silk pallus", "Natural golden sheen wild Tussar cocoons"]
+  },
+  {
+    "id": "wb-travel-001",
+    "title": "Victoria Memorial, Howrah Bridge & Darjeeling Himalayan Toy Train",
+    "region": "bengal",
+    "category": "travel",
+    "description": "Historic colonial white Makrana marble Victoria Memorial, the cantilevered Howrah Bridge on the Hooghly River, and the UNESCO heritage steam-hauled Darjeeling Himalayan Railway facing Mount Kanchenjunga.",
+    "tags": ["victoria memorial", "darjeeling", "toy train", "howrah bridge", "unesco", "heritage"],
+    "location": "Kolkata & Darjeeling, West Bengal",
+    "highlights": ["UNESCO World Heritage 2-foot narrow gauge mountain railway", "Panoramic Kanchenjunga sunrise views from Tiger Hill", "Grand colonial architecture and river ghats"]
+  },
+  {
+    "id": "wb-diaspora-001",
+    "title": "Global Banga Sammelan & International Durga Puja Association",
+    "region": "bengal",
+    "category": "diaspora",
+    "description": "Premier international cultural forum coordinating the North American Bengali Conference (NABC), European Pravasi Bangiya Samaj, and UNESCO Intangible Cultural Heritage global Durga Puja celebrations.",
+    "tags": ["durga puja", "nabc", "bengali diaspora", "probashi", "banga sammelan", "community"],
+    "location": "Global / Kolkata Coordination Hub, West Bengal",
+    "highlights": ["Organizes worldwide UNESCO recognized Durga Puja festival tours", "Promotes Rabindrasangeet and modern Bengali literature", "Active network across 40+ countries"]
+  }
+]
